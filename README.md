@@ -1,10 +1,10 @@
 ### Olá! Me chamo Matheus Luca.
 
 
-- 🔭 Atualmente trabalho com ciência de dados e desenvolvimento de projetos com Java
-- 🌱 Estou estudando Ciencia de Dados pela EBAC (Python, Pandas, Numpy, Sql, seaborn, etc)
+- 🔭 Atualmente sou aluno da Fatec-São Caetano do Sul.
+- 🌱 Estou estudando Ciencia de Dados pela EBAC (Python, Pandas, Numpy, Sql, seaborn, etc) e estudando para ser um Dev-FullStack
 - 👯 Procuro aprimorar minhas habilidades e compartilhar conhecimentos atravéz do GitHub
-- 📫 Email de contato: matheuslucabarisao@hotmail.com
+- 📫 Email de contato: matheuslucabarisao@gmail.com
 ##
 
 <div align="center">
